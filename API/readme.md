@@ -1,4 +1,4 @@
-# API test December Labs 
+# API test
 
 This api was developed as an test to Debember Labs.
 
